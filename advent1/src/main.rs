@@ -56,3 +56,6 @@ fn main() {
     println!("{}", res)
 
 }
+
+
+//ans: 22066446
